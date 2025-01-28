@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/chatinunk97/count.svg)
 
 # 💫 About Me:
 I'm a trilingual Thai software engineer based in Japan. A Japanese language graduate turned developer, I enjoy coding projects—whether they're silly experiments or proof of concepts to bring ideas to life. I'm also diving into mathematics to expand my knowledge. Outside of coding, I love music, especially Liella!
