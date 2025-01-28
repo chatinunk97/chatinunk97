@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=chatinunk97&icon=4&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 I'm a trilingual Thai software engineer based in Japan. A Japanese language graduate turned developer, I enjoy coding projects—whether they're silly experiments or proof of concepts to bring ideas to life. I'm also diving into mathematics to expand my knowledge. Outside of coding, I love music, especially Liella!
 
@@ -44,6 +43,4 @@ I'm a trilingual Thai software engineer based in Japan. A Japanese language grad
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chatinunk97&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
