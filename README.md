@@ -35,9 +35,17 @@ I'm a trilingual Thai software engineer based in Japan. A Japanese language grad
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chatinunk97&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chatinunk97&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chatinunk97&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=chatinunk97&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chatinunk97&layout=compact&show_icons=true&theme=react" alt="chatinunk97 github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chatinunk97&layout=compact&theme=react" alt="chatinunk97 github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=chatinunk97&theme=merko" alt="MatinT-SA github readme activity graph" width="60%" />
+</div>
+
+<br />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chatinun-komuthanon-449a051a9/) 
